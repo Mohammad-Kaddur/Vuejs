@@ -1,0 +1,555 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "title": "Samsung ",
+        "price": 400,
+        "desc": "this is test",
+        "createdAt": "2023-12-07T20:44:02.118Z",
+        "updatedAt": "2024-01-01T19:33:55.727Z",
+        "publishedAt": "2023-12-12T20:00:14.737Z",
+        "is_offer": null,
+        "image": {
+          "data": [
+            {
+              "id": 3,
+              "attributes": {
+                "name": "3215461.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 2000,
+                "height": 2000,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_3215461.jpg",
+                    "hash": "thumbnail_3215461_b9df4ea494",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 3.21,
+                    "url": "/uploads/thumbnail_3215461_b9df4ea494.jpg"
+                  },
+                  "large": {
+                    "name": "large_3215461.jpg",
+                    "hash": "large_3215461_b9df4ea494",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 1000,
+                    "height": 1000,
+                    "size": 44.68,
+                    "url": "/uploads/large_3215461_b9df4ea494.jpg"
+                  },
+                  "medium": {
+                    "name": "medium_3215461.jpg",
+                    "hash": "medium_3215461_b9df4ea494",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 750,
+                    "height": 750,
+                    "size": 30.09,
+                    "url": "/uploads/medium_3215461_b9df4ea494.jpg"
+                  },
+                  "small": {
+                    "name": "small_3215461.jpg",
+                    "hash": "small_3215461_b9df4ea494",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 16.55,
+                    "url": "/uploads/small_3215461_b9df4ea494.jpg"
+                  }
+                },
+                "hash": "3215461_b9df4ea494",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 114.51,
+                "url": "/uploads/3215461_b9df4ea494.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-12-08T13:07:25.507Z",
+                "updatedAt": "2023-12-31T17:38:52.890Z"
+              }
+            }
+          ]
+        },
+        "brand": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "title": "Samsung",
+              "createdAt": "2023-12-31T17:26:12.008Z",
+              "updatedAt": "2023-12-31T17:26:14.031Z",
+              "publishedAt": "2023-12-31T17:26:14.029Z"
+            }
+          }
+        },
+        "categories": {
+          "data": [
+            {
+              "id": 2,
+              "attributes": {
+                "title": "mobile",
+                "desc": null,
+                "createdAt": "2023-12-25T17:08:32.423Z",
+                "updatedAt": "2023-12-25T17:08:34.351Z",
+                "publishedAt": "2023-12-25T17:08:34.348Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "title": "IPhone ",
+        "price": 300,
+        "desc": "this is test...",
+        "createdAt": "2023-12-08T13:07:36.873Z",
+        "updatedAt": "2024-01-01T19:33:50.538Z",
+        "publishedAt": "2023-12-14T17:49:56.515Z",
+        "is_offer": null,
+        "image": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "name": "quartz-green-6.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 320,
+                "height": 497,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_quartz-green-6.png",
+                    "hash": "thumbnail_quartz_green_6_9b6529686d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 100,
+                    "height": 156,
+                    "size": 24.63,
+                    "url": "/uploads/thumbnail_quartz_green_6_9b6529686d.png"
+                  }
+                },
+                "hash": "quartz_green_6_9b6529686d",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 28.54,
+                "url": "/uploads/quartz_green_6_9b6529686d.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-12-08T13:07:25.310Z",
+                "updatedAt": "2023-12-08T13:07:25.310Z"
+              }
+            }
+          ]
+        },
+        "brand": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "title": "IPhone",
+              "createdAt": "2023-12-31T17:26:20.781Z",
+              "updatedAt": "2023-12-31T17:26:22.079Z",
+              "publishedAt": "2023-12-31T17:26:22.077Z"
+            }
+          }
+        },
+        "categories": {
+          "data": [
+            {
+              "id": 2,
+              "attributes": {
+                "title": "mobile",
+                "desc": null,
+                "createdAt": "2023-12-25T17:08:32.423Z",
+                "updatedAt": "2023-12-25T17:08:34.351Z",
+                "publishedAt": "2023-12-25T17:08:34.348Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "title": "Acer",
+        "price": 1200,
+        "desc": null,
+        "createdAt": "2023-12-25T17:14:50.649Z",
+        "updatedAt": "2024-01-01T19:33:33.878Z",
+        "publishedAt": "2023-12-25T17:15:04.824Z",
+        "is_offer": null,
+        "image": {
+          "data": [
+            {
+              "id": 7,
+              "attributes": {
+                "name": "Acer.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1999,
+                "height": 1333,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_Acer.jpg",
+                    "hash": "thumbnail_Acer_f5e2237a3f",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 234,
+                    "height": 156,
+                    "size": 9.44,
+                    "url": "/uploads/thumbnail_Acer_f5e2237a3f.jpg"
+                  },
+                  "medium": {
+                    "name": "medium_Acer.jpg",
+                    "hash": "medium_Acer_f5e2237a3f",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 750,
+                    "height": 500,
+                    "size": 64.02,
+                    "url": "/uploads/medium_Acer_f5e2237a3f.jpg"
+                  },
+                  "small": {
+                    "name": "small_Acer.jpg",
+                    "hash": "small_Acer_f5e2237a3f",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 333,
+                    "size": 31.44,
+                    "url": "/uploads/small_Acer_f5e2237a3f.jpg"
+                  },
+                  "large": {
+                    "name": "large_Acer.jpg",
+                    "hash": "large_Acer_f5e2237a3f",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 1000,
+                    "height": 667,
+                    "size": 101.61,
+                    "url": "/uploads/large_Acer_f5e2237a3f.jpg"
+                  }
+                },
+                "hash": "Acer_f5e2237a3f",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 261.14,
+                "url": "/uploads/Acer_f5e2237a3f.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-12-25T17:14:30.179Z",
+                "updatedAt": "2023-12-25T17:14:30.179Z"
+              }
+            }
+          ]
+        },
+        "brand": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "title": "Acer",
+              "createdAt": "2023-12-31T17:26:00.179Z",
+              "updatedAt": "2023-12-31T17:26:01.260Z",
+              "publishedAt": "2023-12-31T17:26:01.255Z"
+            }
+          }
+        },
+        "categories": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "title": "laptop",
+                "desc": null,
+                "createdAt": "2023-12-25T17:08:09.588Z",
+                "updatedAt": "2023-12-25T17:08:26.226Z",
+                "publishedAt": "2023-12-25T17:08:26.215Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "title": "HP",
+        "price": 15000,
+        "desc": null,
+        "createdAt": "2023-12-25T17:15:25.482Z",
+        "updatedAt": "2024-01-01T19:33:39.870Z",
+        "publishedAt": "2023-12-25T17:15:30.844Z",
+        "is_offer": null,
+        "image": {
+          "data": [
+            {
+              "id": 6,
+              "attributes": {
+                "name": "HP.webp",
+                "alternativeText": null,
+                "caption": null,
+                "width": 400,
+                "height": 400,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_HP.webp",
+                    "hash": "thumbnail_HP_eaa534a28f",
+                    "ext": ".webp",
+                    "mime": "image/webp",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 2.28,
+                    "url": "/uploads/thumbnail_HP_eaa534a28f.webp"
+                  }
+                },
+                "hash": "HP_eaa534a28f",
+                "ext": ".webp",
+                "mime": "image/webp",
+                "size": 9.71,
+                "url": "/uploads/HP_eaa534a28f.webp",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-12-25T17:14:30.046Z",
+                "updatedAt": "2023-12-25T17:48:21.481Z"
+              }
+            }
+          ]
+        },
+        "brand": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "title": "HP",
+              "createdAt": "2023-12-31T17:25:41.699Z",
+              "updatedAt": "2023-12-31T17:25:43.591Z",
+              "publishedAt": "2023-12-31T17:25:43.588Z"
+            }
+          }
+        },
+        "categories": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "title": "laptop",
+                "desc": null,
+                "createdAt": "2023-12-25T17:08:09.588Z",
+                "updatedAt": "2023-12-25T17:08:26.226Z",
+                "publishedAt": "2023-12-25T17:08:26.215Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "title": "HP Victoce",
+        "price": 15700,
+        "desc": null,
+        "createdAt": "2023-12-25T17:48:24.847Z",
+        "updatedAt": "2024-01-01T19:33:45.166Z",
+        "publishedAt": "2023-12-25T17:48:26.577Z",
+        "is_offer": null,
+        "image": {
+          "data": [
+            {
+              "id": 6,
+              "attributes": {
+                "name": "HP.webp",
+                "alternativeText": null,
+                "caption": null,
+                "width": 400,
+                "height": 400,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_HP.webp",
+                    "hash": "thumbnail_HP_eaa534a28f",
+                    "ext": ".webp",
+                    "mime": "image/webp",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 2.28,
+                    "url": "/uploads/thumbnail_HP_eaa534a28f.webp"
+                  }
+                },
+                "hash": "HP_eaa534a28f",
+                "ext": ".webp",
+                "mime": "image/webp",
+                "size": 9.71,
+                "url": "/uploads/HP_eaa534a28f.webp",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-12-25T17:14:30.046Z",
+                "updatedAt": "2023-12-25T17:48:21.481Z"
+              }
+            }
+          ]
+        },
+        "brand": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "title": "HP",
+              "createdAt": "2023-12-31T17:25:41.699Z",
+              "updatedAt": "2023-12-31T17:25:43.591Z",
+              "publishedAt": "2023-12-31T17:25:43.588Z"
+            }
+          }
+        },
+        "categories": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "title": "laptop",
+                "desc": null,
+                "createdAt": "2023-12-25T17:08:09.588Z",
+                "updatedAt": "2023-12-25T17:08:26.226Z",
+                "publishedAt": "2023-12-25T17:08:26.215Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "title": "Samsung ",
+        "price": 400,
+        "desc": null,
+        "createdAt": "2023-12-26T19:14:03.543Z",
+        "updatedAt": "2024-01-01T19:34:00.261Z",
+        "publishedAt": "2023-12-26T19:14:04.413Z",
+        "is_offer": null,
+        "image": {
+          "data": [
+            {
+              "id": 3,
+              "attributes": {
+                "name": "3215461.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 2000,
+                "height": 2000,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_3215461.jpg",
+                    "hash": "thumbnail_3215461_b9df4ea494",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 3.21,
+                    "url": "/uploads/thumbnail_3215461_b9df4ea494.jpg"
+                  },
+                  "large": {
+                    "name": "large_3215461.jpg",
+                    "hash": "large_3215461_b9df4ea494",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 1000,
+                    "height": 1000,
+                    "size": 44.68,
+                    "url": "/uploads/large_3215461_b9df4ea494.jpg"
+                  },
+                  "medium": {
+                    "name": "medium_3215461.jpg",
+                    "hash": "medium_3215461_b9df4ea494",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 750,
+                    "height": 750,
+                    "size": 30.09,
+                    "url": "/uploads/medium_3215461_b9df4ea494.jpg"
+                  },
+                  "small": {
+                    "name": "small_3215461.jpg",
+                    "hash": "small_3215461_b9df4ea494",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 16.55,
+                    "url": "/uploads/small_3215461_b9df4ea494.jpg"
+                  }
+                },
+                "hash": "3215461_b9df4ea494",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 114.51,
+                "url": "/uploads/3215461_b9df4ea494.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-12-08T13:07:25.507Z",
+                "updatedAt": "2023-12-31T17:38:52.890Z"
+              }
+            }
+          ]
+        },
+        "brand": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "title": "Samsung",
+              "createdAt": "2023-12-31T17:26:12.008Z",
+              "updatedAt": "2023-12-31T17:26:14.031Z",
+              "publishedAt": "2023-12-31T17:26:14.029Z"
+            }
+          }
+        },
+        "categories": {
+          "data": [
+            {
+              "id": 2,
+              "attributes": {
+                "title": "mobile",
+                "desc": null,
+                "createdAt": "2023-12-25T17:08:32.423Z",
+                "updatedAt": "2023-12-25T17:08:34.351Z",
+                "publishedAt": "2023-12-25T17:08:34.348Z"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 6
+    }
+  }
+}
